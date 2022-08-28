@@ -1,0 +1,5 @@
+#Calculator
+To times use an astarix *
+To divide use slash /
+To add use +
+And to subtract us -
